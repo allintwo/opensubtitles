@@ -1,7 +1,7 @@
 # OpenSubtitles Offline Backup
 Welcome to the **OpenSubtitles Offline Backup** project! This repository is dedicated to creating an offline backup of subtitles available on OpenSubtitles.com. The project is open for contributions from the community, and we encourage you to get involved.
 
-== Table of Contents
+## Table of Contents
 
 - [Project Structure](#Project-Structure)
 - [Getting Started](#Getting-Started)
@@ -11,7 +11,7 @@ Welcome to the **OpenSubtitles Offline Backup** project! This repository is dedi
 - [Contributing](#Contributing)
 - [License](#License)
 
-?? Project Structure
+## Project Structure
 
 The repository is organized as follows:
 
@@ -30,7 +30,7 @@ The repository is organized as follows:
 # unccommented code
 
 
--** This repository is open for community contributions, and we welcome contributors in all following formats. Make sure you hape the project with your contributions and feelback if you need help.
+- This repository is open for community contributions, and we welcome contributors in all following formats. Make sure you hape the project with your contributions and feelback if you need help.
 
-# PHP code
+## PHP code
 For further deetails and examples, see the "php" folder.
